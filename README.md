@@ -30,6 +30,10 @@ High performance socks:
 
 - v2ray/xray:
 
+- cobaltstrike:
+
+- msf:
+
 ## Port forward
 High performance port forward:  
 - chisel:
@@ -37,3 +41,11 @@ High performance port forward:
 - socat(Root needed):
 
 - iptables(Root needed):
+
+- cobaltstrike:
+
+- msf
+
+## Add routing
+
+- msf:
