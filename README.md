@@ -34,6 +34,8 @@ High performance socks:
 
 - msf:
 
+- SSH(konami code)(Need credentials):
+
 ## Port forward
 High performance port forward:  
 - chisel:
