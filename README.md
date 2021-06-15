@@ -46,6 +46,8 @@ High performance port forward:
 
 - msf:
 
+- SSH(konami code)(Need credentials):
+
 ## Add routing
 
 - msf:
