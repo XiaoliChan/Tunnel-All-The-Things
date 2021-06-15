@@ -15,7 +15,7 @@ IPv6:
 Without linux machine:
 - wireguard(Root needed):
 
-Speedup socks(Non-Evil usage):
+Speedup&protect socks traffic (Non-Evil usage):
 - Udp2raw-tunnel:
 
 ## VPN
@@ -44,7 +44,7 @@ High performance port forward:
 
 - cobaltstrike:
 
-- msf
+- msf:
 
 ## Add routing
 
