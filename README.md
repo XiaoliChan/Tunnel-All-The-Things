@@ -1,30 +1,54 @@
 # Tunnel-All-The-Things
-Cheat sheets for build tunnel/socks/VPN
+### Cheat sheets for build tunnel/socks/VPN
 
 ## Tunnel (P2P)
 
-Need linux machine in server site
+### Need linux machine in server site
 
 IPv4:  
 - IPIP(Root needed):
+```
+
+```
 - wireguard(Root needed):
+```
+
+```
 
 IPv6:  
 - 6in4(Root needed):
+```
+
+```
 
 Without linux machine:
 - wireguard(Root needed):
+```
+
+```
 
 Speedup&protect socks traffic (Non-Evil usage):
 - Udp2raw-tunnel:
+```
+
+```
 
 ## VPN
 Hidden open source high performance vpn:  
-- SoftetherVPN(Root needed):
+
+linux & windows  
+- [SoftetherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN)(Root needed):
+
+```
+
+```
 
 ## Socks
 High performance socks:  
 - chisel:
+Reverse socks:
+
+Bind socks:
 
 - frp:
 
